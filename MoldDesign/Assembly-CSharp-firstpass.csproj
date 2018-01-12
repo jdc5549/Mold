@@ -103,13 +103,13 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/james/OneDrive/Documents/Research/Unity/MoldDesign/Assets/ML-Agents/Plugins/JSON/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/james/OneDrive/Documents/Research/Unity/Mold/MoldDesign/Assets/ML-Agents/Plugins/JSON/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="P2T">
- <HintPath>C:/Users/james/OneDrive/Documents/Research/Unity/MoldDesign/Assets/PrimitivesPro/Scripts/Triangulation/P2T.dll</HintPath>
+ <HintPath>C:/Users/james/OneDrive/Documents/Research/Unity/Mold/MoldDesign/Assets/PrimitivesPro/Scripts/Triangulation/P2T.dll</HintPath>
  </Reference>
  <Reference Include="Vectrosity_Unity3">
- <HintPath>C:/Users/james/OneDrive/Documents/Research/Unity/MoldDesign/Assets/Vectrosity/Vectrosity_Unity3.dll</HintPath>
+ <HintPath>C:/Users/james/OneDrive/Documents/Research/Unity/Mold/MoldDesign/Assets/Vectrosity/Vectrosity_Unity3.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
